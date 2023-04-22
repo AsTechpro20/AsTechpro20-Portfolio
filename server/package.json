@@ -1,0 +1,27 @@
+{
+  "name": "contactpageapi",
+  "version": "1.0.0",
+  "description": "contact server aka api for astechpro20.tk :)",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "contact",
+    "page",
+    "api",
+    "contact",
+    "server",
+    "contact",
+    "api"
+  ],
+  "author": "AsTechpro20",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.1"
+  }
+}

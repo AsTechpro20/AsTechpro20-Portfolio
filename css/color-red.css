@@ -32,7 +32,7 @@
 .js-progress{
     background: #c70039;
 }
-.adobe-progress{
+.node-progress{
     background: #c70039;
 }
 .php-progress{
@@ -41,7 +41,13 @@
 .jquery-progress{
     background: #c70039;
 }
-.seo-progress{
+.python-progress{
+    background: #c70039;
+}
+.react-progress{
+    background: #c70039;
+}
+.csharp-progress{
     background: #c70039;
 }
 .portfolio-text h2{

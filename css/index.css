@@ -47,7 +47,7 @@ input[type=number] {
       font-family: poppins;
       background-color: #202020;
       color: whitesmoke;
-      font-size: 70px;
+      font-size: 50px;
       width: 100%;
   }
 
@@ -55,7 +55,7 @@ input[type=number] {
     color: white;
   }
   .text1{
-    font-size: 30px;
+    font-size: 22px;
   }
 body{
     user-select: none;
@@ -267,11 +267,11 @@ body{
     z-index: 2;
     font-weight:700;
     font-family: poppins;
-    font-size: 65px;
+    font-size: 50px;
 }
 .header-content .secondline{
     z-index: 2;
-    font-size: 30px;
+    font-size: 22px;
     padding-top:20px ;
     font-weight:500;
     color: rgb(255, 255, 255,.8);
